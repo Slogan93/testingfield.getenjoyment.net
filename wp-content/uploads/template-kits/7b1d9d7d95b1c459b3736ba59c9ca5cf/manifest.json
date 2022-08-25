@@ -1,0 +1,1687 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Exela - Social Media Marketing Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Offcanvas",
+            "screenshot": "screenshots\/header-offcanvas.jpg",
+            "source": "templates\/header-offcanvas.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/header-offcanvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study Details",
+            "screenshot": "screenshots\/case-study-details.jpg",
+            "source": "templates\/case-study-details.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/case-study-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/exela\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.7",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.2.1",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.5.9.5",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/logo_Asset-4-800x236.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 14143,
+            "dimensions": [
+                1101,
+                325
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "black-and-white-24-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/black-and-white-24-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 53691,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-female-blogger-taking-selfie-portrait-on-sma-6595WQN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/happy-female-blogger-taking-selfie-portrait-on-sma-6595WQN-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 139775,
+            "dimensions": [
+                1201,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6595WQN"
+        },
+        {
+            "filename": "roberto-cortese-ejhjSZKTeeg-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/roberto-cortese-ejhjSZKTeeg-unsplash.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 121539,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ejhjSZKTeeg"
+        },
+        {
+            "filename": "black-and-white-24-2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/black-and-white-24-2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 136000,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 12795,
+            "dimensions": [
+                828,
+                828
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-female-blogger-taking-selfie-portrait-on-sma-JJ9WRFY.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/happy-female-blogger-taking-selfie-portrait-on-sma-JJ9WRFY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 71147,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJ9WRFY"
+        },
+        {
+            "filename": "Asset-5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 12613,
+            "dimensions": [
+                828,
+                828
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-7-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 12717,
+            "dimensions": [
+                828,
+                828
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jeremy-bezanger-OXrk8fG2aig-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/jeremy-bezanger-OXrk8fG2aig-unsplash.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 70139,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OXrk8fG2aig"
+        },
+        {
+            "filename": "Asset-6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 12761,
+            "dimensions": [
+                828,
+                828
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "jeremy-bezanger-Ro38zH1CRUY-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/jeremy-bezanger-Ro38zH1CRUY-unsplash.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 93021,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Ro38zH1CRUY"
+        },
+        {
+            "filename": "black-and-white-30.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/black-and-white-30-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 83157,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "newclient1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/newclient1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 23612,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "newclient2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/newclient2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 14596,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "newclient3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/newclient3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 27424,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "newclient4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/newclient4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 20724,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "newclient5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/newclient5-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 19246,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "people-on-social-media-SDLJZ9E.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/people-on-social-media-SDLJZ9E-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 296790,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SDLJZ9E"
+        },
+        {
+            "filename": "timothy-hales-bennett-OwvRB-M3GwE-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/timothy-hales-bennett-OwvRB-M3GwE-unsplash.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 116876,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OwvRB-M3GwE"
+        },
+        {
+            "filename": "plann-zAYsSxRdGc0-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/plann-zAYsSxRdGc0-unsplash.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 50331,
+            "dimensions": [
+                800,
+                1400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/zAYsSxRdGc0"
+        },
+        {
+            "filename": "black-and-white-41.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/black-and-white-41-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 31797,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-an-asia-girl-TA3NAHE.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/portrait-of-an-asia-girl-TA3NAHE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 74422,
+            "dimensions": [
+                743,
+                743
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TA3NAHE"
+        },
+        {
+            "filename": "men-looking-at-camera-portrait-EBQCY4N.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/men-looking-at-camera-portrait-EBQCY4N.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 103799,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EBQCY4N"
+        },
+        {
+            "filename": "portrait-of-smiling-man-sitting-on-sofa-ADHXL78.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/portrait-of-smiling-man-sitting-on-sofa-ADHXL78.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 96650,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADHXL78"
+        },
+        {
+            "filename": "portrait-59EP7H8.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/portrait-59EP7H8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 93131,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-59EP7H8"
+        },
+        {
+            "filename": "beautiful-sexy-female-model-in-lilac-delicate-dres-QMK3SVN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/beautiful-sexy-female-model-in-lilac-delicate-dres-QMK3SVN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 85348,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMK3SVN"
+        },
+        {
+            "filename": "bg_22.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/bg_22-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 188001,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg_22mobile.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/bg_22mobile.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 121698,
+            "dimensions": [
+                792,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "immersed-in-social-media-VPSBPX2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/immersed-in-social-media-VPSBPX2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 190010,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VPSBPX2"
+        },
+        {
+            "filename": "jeremy-bezanger-9k_gCYLoH2g-unsplash.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/jeremy-bezanger-9k_gCYLoH2g-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 186599,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9k_gCYLoH2g"
+        },
+        {
+            "filename": "studio-shot-of-good-looking-intelligent-female-pro-Q8333UC.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/studio-shot-of-good-looking-intelligent-female-pro-Q8333UC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 140312,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8333UC"
+        },
+        {
+            "filename": "portrait-of-happy-handsome-hispanic-businessman-ho-KJGWB7Q.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/portrait-of-happy-handsome-hispanic-businessman-ho-KJGWB7Q.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 81280,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KJGWB7Q"
+        },
+        {
+            "filename": "young-modern-man-holding-smart-phone-in-hands-loo-KKD4M82.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/young-modern-man-holding-smart-phone-in-hands-loo-KKD4M82.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 121994,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KKD4M82"
+        },
+        {
+            "filename": "couple-browsing-web-together-in-living-room-GZ465VX.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/couple-browsing-web-together-in-living-room-GZ465VX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 220182,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GZ465VX"
+        },
+        {
+            "filename": "young-couple-browsing-the-web-on-their-gadgets-MS6U9BK.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/young-couple-browsing-the-web-on-their-gadgets-MS6U9BK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 180798,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MS6U9BK"
+        },
+        {
+            "filename": "GenericDashboard.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/GenericDashboard-800x718.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 839946,
+            "dimensions": [
+                1920,
+                1722
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "InvoicingDashboard.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/InvoicingDashboard-800x494.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 573981,
+            "dimensions": [
+                1920,
+                1185
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-5-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 9642,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-6-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 10498,
+            "dimensions": [
+                450,
+                451
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-7-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/Asset-7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 10586,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "browsing-in-cafe-KYV2T9X.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/browsing-in-cafe-KYV2T9X-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 196861,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KYV2T9X"
+        },
+        {
+            "filename": "couple-browsing-web-together-in-living-room-JJ5PQHN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/couple-browsing-web-together-in-living-room-JJ5PQHN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 193792,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJ5PQHN"
+        },
+        {
+            "filename": "man-with-tattoos-browsing-internet-on-laptop-at-of-V2QXGYA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/man-with-tattoos-browsing-internet-on-laptop-at-of-V2QXGYA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 183289,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V2QXGYA"
+        },
+        {
+            "filename": "woman-using-laptop-working-browsing-concept-PHTMDB7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/woman-using-laptop-working-browsing-concept-PHTMDB7-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 218341,
+            "dimensions": [
+                2400,
+                1602
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHTMDB7"
+        },
+        {
+            "filename": "social-media-influencer-YWQZ3WP.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/social-media-influencer-YWQZ3WP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 227477,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YWQZ3WP"
+        },
+        {
+            "filename": "souvik-banerjee-9Z-2Ktg6CIM-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/souvik-banerjee-9Z-2Ktg6CIM-unsplash-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 107679,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9Z-2Ktg6CIM"
+        },
+        {
+            "filename": "social-media-influencer-giving-good-news-to-subscr-HEGV7J9.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/social-media-influencer-giving-good-news-to-subscr-HEGV7J9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 204560,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HEGV7J9"
+        },
+        {
+            "filename": "young-businesswoman-with-earphones-browsing-mobile-JE32F7L.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/young-businesswoman-with-earphones-browsing-mobile-JE32F7L-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 216067,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JE32F7L"
+        },
+        {
+            "filename": "student-looking-at-online-course-about-social-medi-HF5MT4C.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/student-looking-at-online-course-about-social-medi-HF5MT4C-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                }
+            ],
+            "filesize": 201296,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HF5MT4C"
+        },
+        {
+            "filename": "couple-browsing-web-together-in-living-room-JHAM8NY.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/couple-browsing-web-together-in-living-room-JHAM8NY-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/case-study-details.json",
+                    "name": "Case Study Details"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 253955,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JHAM8NY"
+        },
+        {
+            "filename": "mature-couple-using-laptop-computer-together-brows-9ZKLJZ7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/mature-couple-using-laptop-computer-together-brows-9ZKLJZ7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 269001,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9ZKLJZ7"
+        },
+        {
+            "filename": "shocked-impressed-young-attractive-asian-man-say-EGZXW56.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/shocked-impressed-young-attractive-asian-man-say-EGZXW56.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 73627,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EGZXW56"
+        },
+        {
+            "filename": "optimistic-freckled-female-with-ginger-hair-sugge-T9DYHJM.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/optimistic-freckled-female-with-ginger-hair-sugge-T9DYHJM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 139900,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T9DYHJM"
+        },
+        {
+            "filename": "studio-shot-of-amazing-gorgeous-young-red-haired-e-UZXSPE4.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/studio-shot-of-amazing-gorgeous-young-red-haired-e-UZXSPE4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 105015,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UZXSPE4"
+        },
+        {
+            "filename": "404_Asset-11.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/404_Asset-11-800x636.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 210654,
+            "dimensions": [
+                1418,
+                1128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404_Asset-8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/exela\/wp-content\/uploads\/sites\/59\/2022\/03\/404_Asset-8.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 6680,
+            "dimensions": [
+                670,
+                263
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
